@@ -1,7 +1,7 @@
 # OCRCalculatorApp
 Simple OCR Expression Calculator
 
-Limitation:
+Limitations:
   - Hard to detect handwriting, currently applicable to well defined text
   
 Future Improvements:

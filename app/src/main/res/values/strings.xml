@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple OCR Calculator</string>
+    <string name="add_input">Input Image</string>
+</resources>
