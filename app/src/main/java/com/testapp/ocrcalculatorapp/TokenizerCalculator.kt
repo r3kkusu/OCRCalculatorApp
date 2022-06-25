@@ -33,7 +33,7 @@ class TokenizerCalculator {
             "-" -> return (first - second).toInt()
             "/", "÷" -> return (first / second).toInt()
         }
-        return Int.MAX_VALUE
+        return Int.MAX_VALUE // Using integer max value as invalid flag
     }
 
     private fun breakStatement(expression: String): Array<String?>? {
